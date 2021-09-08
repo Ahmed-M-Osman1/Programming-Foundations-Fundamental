@@ -1,5 +1,7 @@
 # Programming-Foundations-Fundamental
 
+This course is a part of " كالبنيان المرصوص " intern. This intern contain 18 different course. This one if from LinkedIn. Course link: 
+https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming
 
 ## Course details:
 
