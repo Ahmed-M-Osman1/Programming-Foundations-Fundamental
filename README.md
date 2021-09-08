@@ -2,25 +2,27 @@
 
 
 ## Course details:
-In this course I have learned :
 
-Writing source code
+### In this course I have learned :
 
-Basic statements and expressions
+1- Writing source code
 
-Working with numbers and strings
+2- Basic statements and expressions
 
-Writing conditional code
+3- Working with numbers and strings
 
-Increasing your efficiency with functions
+4- Writing conditional code
 
-Working with comments
+5- Increasing your efficiency with functions
 
-Making decisions in code
+6- Working with comments
 
-Troubleshooting errors
+7- Making decisions in code
 
-Learning about other languages
+8- Troubleshooting errors
+
+9- Learning about other languages
 
 
+###Linke to certificate 
 [CertificateOfCompletion_Programming Foundations Fundamentals.pdf](https://github.com/akiid777/Programming-Foundations-Fundamental/files/7132099/CertificateOfCompletion_Programming.Foundations.Fundamentals.pdf)
